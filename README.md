@@ -1,6 +1,6 @@
 # LB Consulting — Site vitrine (version améliorée)
 
-Lien de la page publiée : https://claude.ai/artifact/Uu5y4LpoBSeS16rzKjwoKc
+Lien de la page publiée : LB-Consulting-index_1.html
 
 ## Ce qui a changé
 
